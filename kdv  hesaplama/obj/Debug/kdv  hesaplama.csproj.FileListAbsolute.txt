@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\bin\Debug\kdv  hesaplama.exe.config
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\bin\Debug\kdv  hesaplama.exe
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\bin\Debug\kdv  hesaplama.pdb
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\obj\Debug\kdv  hesaplama.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\obj\Debug\kdv  hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\obj\Debug\kdv  hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\obj\Debug\kdv  hesaplama.exe
+C:\Users\UMUT TÜRK\Desktop\banka\kdv  hesaplama\kdv  hesaplama\obj\Debug\kdv  hesaplama.pdb
